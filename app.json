@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "loanQuoter",
-    "slug": "loanQuoter",
+    "name": "loanCalculator",
+    "slug": "loanCalculator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
